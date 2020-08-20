@@ -1,16 +1,15 @@
-### Hi there 👋
+## Work History
 
-<!--
-**parkjh/parkjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer at (IMGArena)[https://github.com/IMGARENA]
+### Software Engineer at (NewsUK)[https://github.com/newsuk]
+### Junior Software Engineer at (Gousto)[https://github.com/Gousto]
+### Technical Developer at ReadingRoom
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages 
+- (Typescript)[https://github.com/microsoft/TypeScript]
+- (Scala)[https://github.com/scala/scala]
+### Library
+- (Svelte)[https://github.com/sveltejs/svelte]
+- (Sapper)[https://github.com/sveltejs/sapper]
