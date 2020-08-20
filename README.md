@@ -1,5 +1,7 @@
 Hello, I'm [Joon](https://www.linkedin.com/in/joon-p-650653109/)
 
+![](https://media.giphy.com/media/t6lGyl8QLylqFQJkiA/giphy.gif)
+
 ### Work History
 - Developer at [IMGArena](https://github.com/IMGARENA)
 - Software Engineer at [NewsUK](https://github.com/newsuk)
