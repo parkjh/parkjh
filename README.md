@@ -1,15 +1,16 @@
-## Work History
+Hello, I'm [Joon](https://www.linkedin.com/in/joon-p-650653109/)
 
-### Developer at [IMGArena](https://github.com/IMGARENA)
-### Software Engineer at [NewsUK](https://github.com/newsuk)
-### Junior Software Engineer at [Gousto](https://github.com/Gousto)
-### Technical Developer at ReadingRoom
+### Work History
 
-## Interests
+#### Developer at [IMGArena](https://github.com/IMGARENA)
+#### Software Engineer at [NewsUK](https://github.com/newsuk)
+#### Junior Software Engineer at [Gousto](https://github.com/Gousto)
 
-### Languages 
+### Interests
+
+#### Languages 
 - [Typescript](https://github.com/microsoft/TypeScript)
 - [Scala](https://github.com/scala/scala)
-### Library
+#### Library
 - [Svelte](https://github.com/sveltejs/svelte)
 - [Sapper](https://github.com/sveltejs/sapper)
